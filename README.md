@@ -1,6 +1,6 @@
 # Introduction
 
-This is the second homework in the *NoSQL Databases and Advanced Programming* course which I participated in during the 2020/21 summer term. The *cwiczenia2.json* file contains data that was provided with the instructions. You can load data using the following command:
+This is the second homework in the *NoSQL Databases and Advanced Programming* course which I participated in during the 2020/21 summer term. The homework was dedicated to checking MongoDB skills. The *cwiczenia2.json* file contains data that was provided with the instructions. You can load data using the following command:
 
 ```shell
 mongoimport --file cwiczenia2.json --db nbd --collection people--jsonArray
